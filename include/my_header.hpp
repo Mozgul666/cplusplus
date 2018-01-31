@@ -11,6 +11,10 @@ double exo1 (double rayon)
 	return aire;
  }
 
+void exo2(short a, short b)
+{
+	short y;
+ 	y = a < b && !a;
+}
 
 #endif // MY_HEADER_HPP
-
