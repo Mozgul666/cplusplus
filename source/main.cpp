@@ -6,9 +6,9 @@
 int main()
 {
 	double r1;
-	exo1();
+	exo2();
     // Affichage sur un terminal
-    std::cout << "Hello World!" << std::endl;
+	std::cout << "Hello World!" << std::endl;
 
     return 0;
 }
