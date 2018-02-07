@@ -6,7 +6,7 @@
 int main()
 {
 	double r1;
-	exo2(0,10);
+	exo1();
     // Affichage sur un terminal
     std::cout << "Hello World!" << std::endl;
 
